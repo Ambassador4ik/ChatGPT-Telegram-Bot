@@ -1,6 +1,6 @@
 Telegram:
-    TelegramAppHash: "8e551a5d410d03845b6d4090c31591c5"
-    TelegramAppId: "20844106"
+    TelegramAppHash: ""
+    TelegramAppId: ""
 
 OpenAI:
-    Token: "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"
+    Token: ""
