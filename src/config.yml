@@ -3,4 +3,5 @@ Telegram:
     TelegramAppId: ""
 
 OpenAI:
-    Token: ""
+    Tokens:
+        - ""

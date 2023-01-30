@@ -1,3 +1,5 @@
 src/__pycache__
+src/telegram/__pycache__
+src/textgen/__pycache__
 my_account.session
 my_account.session-journal
